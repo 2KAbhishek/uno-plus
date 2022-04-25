@@ -1,1 +1,7 @@
 # Excluded files
+*.o
+*.gch
+*.obj
+*.out
+*.exe
+uno-plus
