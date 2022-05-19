@@ -26,7 +26,7 @@
 <h3>Uno on the command line with C++ 🃏♣</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/uno-plus/main/images/screenshot.jpg" alt="uno-plus Demo" style="width:100%">
+  <img src= "images/screenshot.jpg" alt="uno-plus Demo" style="width:100%">
   <br/>
   <figcaption>uno-plus screenshot</figcaption>
 </figure>
