@@ -35,17 +35,17 @@
 
 ## What is this
 
-uno-plus is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Play the classic card game Uno on the terminal.
 
 ## Inspiration
 
-uno-plus was inspired by `<reason/idea>`.
+Was reading about the [game rules](https://www.ultraboardgames.com/uno/game-rules.php), thought I'd make a CLI version.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `make`, `g++`.
 
 ## Getting uno-plus
 
@@ -54,51 +54,33 @@ To install uno-plus, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/uno-plus
 cd uno-plus
-<install_command>
+make # Compile the game
+./uno-plus # Run the game
 ```
 
 ## Using uno-plus
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+After starting the game it will show some instructions.
+Follow the instructions and have fun!
 
 ## How it was built
 
-uno-plus was built using `<tech/library>`
+uno-plus was built using `neovim`, `make` and `g++`.
 
 ## Challenges faced
 
-While building uno-plus the main challenges were `<issue/difficulty>`
+Figuring out the architecture and the flow was a challenge.
 
 ## What I learned
 
-While building uno-plus I `<learned/accomplished>` about `<learning/accomplishment>`
+- Learned about various C++ constructs and their uses.
+- Learned about seperating `.h` and `.cpp` files.
+- OOP with C++ revisited.
+- Learnd the rules of the game.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Planning to add colors and symbols someday.
 
 Hit the ⭐ button if you found this useful.
 
